@@ -1,0 +1,20 @@
+1: git branch
+
+2: ** create branch 1st:method **
+    
+    git checkout -b "branch_name"
+    git checkout -b dummy   <--- created a new branch with name "dummy" & shifted to dummy branch
+
+
+    ** create branch 2nd:method **
+    
+    git branch "branch_name"  <---create a new branch
+    git checkout "branch_name"  <--- shifted to "branch_name" branch
+
+3: ** merge two branches on local system **
+
+    git checkout master  <--- jis branch k andr hum dosri branch k code merge krny lgy hain
+    git merge thirsty    <--- thirsty=second_branch 
+    :wq
+
+4: 

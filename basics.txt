@@ -1,0 +1,41 @@
+1: git status
+
+2: git remote add origin "git@github....."  <--- git k kis jaga par save krna hai
+
+3: git add .
+    git add filename  <--- filename.txt/java/cpp
+
+4: git commit -m "change my code"  <--- write your comment for commit changes
+
+5: git push -u origin master
+
+6: git pull origin master  <--- branch name
+
+7: git log
+
+8: git clone "ssh key url"  <--- folder created
+    git clone "ssh key url" .  <--- this (.)dot doesn't creates folder
+    git clone "ssh key url" folder_name  <--- creates with folder_name folder
+
+9: rm -rf "file_name/folder_name"  <--- to delete from github
+    rm -rf .git    <--- to delete the git file
+
+10: pwd <--- present working directory
+
+11: ls
+
+12: cd  <--- current working directory
+
+13: git add --a ?????????????
+
+14: git config user.name "kashif"
+    git confit --global user.name "kashif"
+
+15: git config user.email "kashifniazxxxx@gmail.com"
+    git config --global user.email "kashifniazxxx@gmail.com"
+
+16: git init <--- to initilize the git directory/file
+
+17: git config --list   <--- to show all things in current working git repo
+
+18: 
