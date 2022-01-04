@@ -1,0 +1,12 @@
+// delete a specific folder in github + git
+
+1: git remote -v
+2: ls -l
+
+3: git rm -r "folder/file name"
+    git rm -r basics.txt
+
+4: git commit -m "deleted basics.txt file"
+
+
+5: git push origin main

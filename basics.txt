@@ -14,7 +14,7 @@
 
 6: git pull origin master  <--- branch name
 
-7: git log
+7: git log  <--- show commits history
 
 8: git clone "ssh key url"  <--- folder created
     git clone "ssh key url" .  <--- this (.)dot doesn't creates folder
